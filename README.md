@@ -22,7 +22,7 @@ Beyond technical skills, I bring strong analytical abilities, creative problem-s
 
 ## 🎮 Beyond Design
 When I'm not crafting digital experiences, you can find me:
-- 🎮 Gaming on my Nintendo Switch and PC
+- 🎮 Gaming on my Nintendo Switch 2 and PC
 - 🎵 Making music with my flute and guitar
 - 🌟 Exploring the intersection of gaming and user experience
 
