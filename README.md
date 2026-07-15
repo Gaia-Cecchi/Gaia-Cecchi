@@ -6,40 +6,12 @@
   <img alt="Gaia Cecchi - AI Researcher" src="dark.svg" width="100%">
 </picture>
 
-</div>
-
-<h3 align="center">✨ Creating Digital Experiences that Matter</h3>
-
-<p align="center">
-Blending human-centered design with cutting-edge AI, I craft digital solutions that bridge the gap between users and innovation — from Explainable AI research to interfaces people can actually trust.
-</p>
-
-<br>
-
-### 🎯 Who I am
-
-AI Researcher at the **University of Siena**, working on **Explainable AI (XAI)**, LLM engineering/fine-tuning and RAG systems across cybersecurity, healthcare and industrial edge computing. Two degrees with highest honors — Scienze della Comunicazione & UX Design, both cum laude — gave me a UX-research lens that I now bring to AI systems — my focus is making them understandable, verifiable and meaningful for the people who use them, not just accurate on paper.
-
-### 🚀 What I'm passionate about
-
-- 🧠 Explainable AI & LLM Engineering
-- 🎨 Human-Centered Design & UX Research
-- ♿ Digital Accessibility & Inclusion
-- 🔒 Privacy-by-Design & Edge AI
-- 💡 Emerging Technologies
-
-### 🎮 Beyond research
-
-- 🎮 Gaming on my Nintendo Switch 2 and PC
-- 🎵 Making music with my flute and guitar
-- 🌟 Exploring where AI, design and everyday life intersect
-
-<br>
-
-<div align="center">
+<br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gaia--Cecchi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaia-Cecchi)
-
-*Let's create meaningful, trustworthy AI experiences together!* 🌟
+[![Portfolio](https://img.shields.io/badge/Portfolio-gaiacecchi.pages.dev-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gaiacecchi.pages.dev/it/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=gCgnsiEAAAAJ&hl=it)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--5892--0156-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-5892-0156)
+[![UniSi](https://img.shields.io/badge/University_of_Siena-Profile-7C3AED?style=for-the-badge)](https://en.unisi.it/ugov/person/179569)
 
 </div>
