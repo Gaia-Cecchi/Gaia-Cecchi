@@ -18,7 +18,7 @@ Blending human-centered design with cutting-edge AI, I craft digital solutions t
 
 ### 🎯 Who I am
 
-Research Fellow at the **University of Siena**, working on **Explainable AI (XAI)**, LLM engineering/fine-tuning and RAG systems across cybersecurity, healthcare and industrial edge computing. Two degrees with highest honors in Communication Strategies & Experience Design gave me a UX-research lens that I now bring to AI systems — my focus is making them understandable, verifiable and meaningful for the people who use them, not just accurate on paper.
+AI Researcher at the **University of Siena**, working on **Explainable AI (XAI)**, LLM engineering/fine-tuning and RAG systems across cybersecurity, healthcare and industrial edge computing. Two degrees with highest honors — Scienze della Comunicazione & UX Design, both cum laude — gave me a UX-research lens that I now bring to AI systems — my focus is making them understandable, verifiable and meaningful for the people who use them, not just accurate on paper.
 
 ### 🚀 What I'm passionate about
 
