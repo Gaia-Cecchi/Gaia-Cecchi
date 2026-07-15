@@ -1,30 +1,45 @@
-# ✨ Creating Digital Experiences that Matter 
+<div align="center">
 
-## 🎯 Who I am
-Blending human-centered design with cutting-edge technology, I craft digital solutions that bridge the gap between users and innovation. With a Master's degree in Communication Strategies and Experience Design, I bring a unique perspective to every project, combining rigorous research methodologies with creative problem-solving.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Gaia Cecchi - AI Researcher" src="dark.svg" width="100%">
+</picture>
 
-My work spans across UX/UI design, social media strategy, and human-AI interaction, with a particular focus on making technology more accessible and meaningful for everyone. Whether it's designing intuitive interfaces or researching emerging technologies, I'm driven by the challenge of creating experiences that truly resonate with users.
+</div>
 
-## 🎓 My journey
-As a recent graduate with honors in Experience Design and Communication Strategies, I've developed a deep understanding of how technology can enhance human experiences. My academic background in both technical and social sciences allows me to approach design challenges from multiple angles, ensuring solutions that are both innovative and user-centric.
+<h3 align="center">✨ Creating Digital Experiences that Matter</h3>
 
-During my studies, I've had the opportunity to work on diverse projects ranging from healthcare applications to social innovation platforms. Each project has strengthened my belief in the power of thoughtful design to create positive change.
+<p align="center">
+Blending human-centered design with cutting-edge AI, I craft digital solutions that bridge the gap between users and innovation — from Explainable AI research to interfaces people can actually trust.
+</p>
 
-## 🚀 What I'm passionate about
-- 🎨 Human-Centered Design & Research
+<br>
+
+### 🎯 Who I am
+
+Research Fellow at the **University of Siena**, working on **Explainable AI (XAI)**, LLM engineering/fine-tuning and RAG systems across cybersecurity, healthcare and industrial edge computing. Two degrees with highest honors in Communication Strategies & Experience Design gave me a UX-research lens that I now bring to AI systems — my focus is making them understandable, verifiable and meaningful for the people who use them, not just accurate on paper.
+
+### 🚀 What I'm passionate about
+
+- 🧠 Explainable AI & LLM Engineering
+- 🎨 Human-Centered Design & UX Research
 - ♿ Digital Accessibility & Inclusion
-- 🤖 AI-Human Interaction Design
-- 📱 Social Media Strategy
+- 🔒 Privacy-by-Design & Edge AI
 - 💡 Emerging Technologies
 
-## 💫 What sets me apart
-Beyond technical skills, I bring strong analytical abilities, creative problem-solving, and a commitment to continuous learning. I'm always excited to take on new challenges and collaborate with teams that share my passion for impactful design.
+### 🎮 Beyond research
 
-## 🎮 Beyond Design
-When I'm not crafting digital experiences, you can find me:
 - 🎮 Gaming on my Nintendo Switch 2 and PC
 - 🎵 Making music with my flute and guitar
-- 🌟 Exploring the intersection of gaming and user experience
+- 🌟 Exploring where AI, design and everyday life intersect
 
----
-*Let's create meaningful digital experiences together!* 🌟
+<br>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Gaia--Cecchi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaia-Cecchi)
+
+*Let's create meaningful, trustworthy AI experiences together!* 🌟
+
+</div>
