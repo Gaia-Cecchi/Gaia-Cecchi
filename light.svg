@@ -282,7 +282,7 @@
       <text x="512" y="380" font-family="Consolas, Menlo, monospace" font-size="14" fill="#475569" letter-spacing="2">SKILLS</text>
       <rect x="512" y="388" width="596" height="1" fill="#0F172A" opacity="0.15"/>
     </g>
-    <g transform="translate(512.0,398)" opacity="0">
+    <g transform="translate(512,398)" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.3999999999999995s" fill="freeze"/>
       <g filter="url(#glow-light)">
         <rect width="82" height="30" rx="15" fill="#F1F5F9" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
@@ -290,7 +290,7 @@
       </g>
       <text x="41.0" y="20" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#0F172A">Python</text>
     </g>
-    <g transform="translate(634.5,398)" opacity="0">
+    <g transform="translate(604,398)" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.5199999999999996s" fill="freeze"/>
       <g filter="url(#glow-light)">
         <rect width="58" height="30" rx="15" fill="#F1F5F9" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
@@ -298,7 +298,7 @@
       </g>
       <text x="29.0" y="20" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#0F172A">LLM</text>
     </g>
-    <g transform="translate(733.0,398)" opacity="0">
+    <g transform="translate(672,398)" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.6399999999999997s" fill="freeze"/>
       <g filter="url(#glow-light)">
         <rect width="58" height="30" rx="15" fill="#F1F5F9" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
@@ -306,7 +306,7 @@
       </g>
       <text x="29.0" y="20" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#0F172A">RAG</text>
     </g>
-    <g transform="translate(831.5,398)" opacity="0">
+    <g transform="translate(740,398)" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.7599999999999993s" fill="freeze"/>
       <g filter="url(#glow-light)">
         <rect width="146" height="30" rx="15" fill="#F1F5F9" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
@@ -314,7 +314,7 @@
       </g>
       <text x="73.0" y="20" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#0F172A">Explainable AI</text>
     </g>
-    <g transform="translate(1018.0,398)" opacity="0">
+    <g transform="translate(896,398)" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.8799999999999994s" fill="freeze"/>
       <g filter="url(#glow-light)">
         <rect width="90" height="30" rx="15" fill="#F1F5F9" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
@@ -322,7 +322,7 @@
       </g>
       <text x="45.0" y="20" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#0F172A">Edge AI</text>
     </g>
-    <g transform="translate(512.0,434)" opacity="0">
+    <g transform="translate(512,434)" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.9999999999999996s" fill="freeze"/>
       <g filter="url(#glow-light)">
         <rect width="122" height="30" rx="15" fill="#F1F5F9" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
@@ -330,7 +330,7 @@
       </g>
       <text x="61.0" y="20" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#0F172A">UX Research</text>
     </g>
-    <g transform="translate(701.0,434)" opacity="0">
+    <g transform="translate(644,434)" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.119999999999999s" fill="freeze"/>
       <g filter="url(#glow-light)">
         <rect width="170" height="30" rx="15" fill="#F1F5F9" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
@@ -338,7 +338,7 @@
       </g>
       <text x="85.0" y="20" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#0F172A">Human In The Loop</text>
     </g>
-    <g transform="translate(938.0,434)" opacity="0">
+    <g transform="translate(824,434)" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.239999999999999s" fill="freeze"/>
       <g filter="url(#glow-light)">
         <rect width="170" height="30" rx="15" fill="#F1F5F9" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
@@ -346,7 +346,7 @@
       </g>
       <text x="85.0" y="20" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#0F172A">Privacy by Design</text>
     </g>
-    <g transform="translate(512.0,470)" opacity="0">
+    <g transform="translate(512,470)" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.359999999999999s" fill="freeze"/>
       <g filter="url(#glow-light)">
         <rect width="154" height="30" rx="15" fill="#F1F5F9" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
@@ -354,7 +354,7 @@
       </g>
       <text x="77.0" y="20" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#0F172A">Design Thinking</text>
     </g>
-    <g transform="translate(678.5,470)" opacity="0">
+    <g transform="translate(676,470)" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.4799999999999995s" fill="freeze"/>
       <g filter="url(#glow-light)">
         <rect width="58" height="30" rx="15" fill="#F1F5F9" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
@@ -362,7 +362,7 @@
       </g>
       <text x="29.0" y="20" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#0F172A">OCR</text>
     </g>
-    <g transform="translate(749.0,470)" opacity="0">
+    <g transform="translate(744,470)" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.6s" fill="freeze"/>
       <g filter="url(#glow-light)">
         <rect width="138" height="30" rx="15" fill="#F1F5F9" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
@@ -370,7 +370,7 @@
       </g>
       <text x="69.0" y="20" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#0F172A">Vision Models</text>
     </g>
-    <g transform="translate(899.5,470)" opacity="0">
+    <g transform="translate(892,470)" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.719999999999999s" fill="freeze"/>
       <g filter="url(#glow-light)">
         <rect width="82" height="30" rx="15" fill="#F1F5F9" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
@@ -378,20 +378,11 @@
       </g>
       <text x="41.0" y="20" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#0F172A">Ollama</text>
     </g>
-    <g transform="translate(994.0,470)" opacity="0">
+    <g transform="translate(984,470)" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.84s" fill="freeze"/>
       <g filter="url(#glow-light)">
         <rect width="114" height="30" rx="15" fill="#F1F5F9" stroke="url(#accentGrad-light)" stroke-width="1.1"/>
         <animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="3.0s" begin="5.84s" repeatCount="indefinite" additive="sum"/>
       </g>
       <text x="57.0" y="20" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#0F172A">DGX Sparks</text>
-    </g>
-    <rect x="512" y="508" width="596" height="1" fill="#0F172A" opacity="0.15"/>
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="5.36s" fill="freeze"/>
-      <text x="512" y="542" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#10B981">$</text>
-      <text x="528" y="542" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#475569">Open to research collaborations &amp; AI product work</text>
-      <rect x="925" y="526" width="8" height="17" fill="#2563EB">
-        <animate attributeName="opacity" values="1;0;1" dur="0.9s" begin="5.36s" repeatCount="indefinite"/>
-      </rect>
     </g></g></svg>
